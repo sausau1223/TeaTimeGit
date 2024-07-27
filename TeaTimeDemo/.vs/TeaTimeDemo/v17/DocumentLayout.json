@@ -1,0 +1,1313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\teatimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:teatimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\dbinitializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B770A4BC-6F62-4535-8795-C31D6EE87CF5}|..\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\irepository\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\irepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\irepository\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\views\\store\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\views\\store\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\wwwroot\\js\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:wwwroot\\js\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\repository\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\migrations\\20240721164752_updatenametobestringapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B770A4BC-6F62-4535-8795-C31D6EE87CF5}|..\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\teatimedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:teatimedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240713054835_addImageUrlToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\migrations\\20240725044040_addorderheaderanddetailtodb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\migrations\\20240724051654_addshoppingcarttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\migrations\\20240722151815_addstoretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\migrations\\20240722175249_addstoretouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\source\\repos\\sausau1223\\practiceweb\\teatimedemo.dataaccess\\migrations\\20240722174341_addstorerecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T02:38:22.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:28:44.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\DbInitializer\\IDBInitializer.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\DbInitializer\\IDBInitializer.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\DbInitializer\\IDBInitializer.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\DbInitializer\\IDBInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:15:09.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:25:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T17:07:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:23:48.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:13:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:25:01.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeaTimeDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\TeaTimeDemo.csproj",
+              "RelativeDocumentMoniker": "TeaTimeDemo.csproj",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\TeaTimeDemo.csproj",
+              "RelativeToolTip": "TeaTimeDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T16:01:29.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:14:26.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAASwIcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:51:11.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:55:40.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwF4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:57:24.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\SD.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:46:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T17:12:17.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwDsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T12:01:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAUwNMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:53:25.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\ViewModels\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\ViewModels\\OrderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:06:50.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:50:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:32:56.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:53:42.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAwHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:02:42.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "order.js",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\wwwroot\\js\\order.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\order.js",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\wwwroot\\js\\order.js",
+              "RelativeToolTip": "wwwroot\\js\\order.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-25T17:13:49.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:59:46.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\product.js",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "wwwroot\\js\\product.js",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-19T10:01:16.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ShoppingCart.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:12:07.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:18:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:14:29.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:13:43.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:13:28.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\OrderHeader.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\OrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:10:26.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:23:31.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\OrderDetail.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:55:46.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:38:13.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:23:29.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:04:42.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:09:16.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T15:41:39.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IStoreRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IStoreRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:22:09.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:28:40.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T07:03:39.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T11:48:46.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:27:52.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T13:24:00.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240725044040_addOrderHeaderAndDetailToDb2.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240725044040_addOrderHeaderAndDetailToDb2.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240725044040_addOrderHeaderAndDetailToDb2.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240725044040_addOrderHeaderAndDetailToDb2.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240725044040_addOrderHeaderAndDetailToDb2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:40:40.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:53:28.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:35:49.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T13:33:22.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240724051654_addShoppingCartToDb.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240724051654_addShoppingCartToDb.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240724051654_addShoppingCartToDb.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240724051654_addShoppingCartToDb.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240724051654_addShoppingCartToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:16:54.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Store\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Store\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Store\\Upsert.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Store\\Upsert.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T15:50:20.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240722151815_addStoreTable.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722151815_addStoreTable.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240722151815_addStoreTable.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722151815_addStoreTable.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240722151815_addStoreTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:18:15.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20240722175249_addStoreToUser.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722175249_addStoreToUser.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240722175249_addStoreToUser.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722175249_addStoreToUser.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240722175249_addStoreToUser.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:52:50.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "StoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\StoreRepository.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Repository\\StoreRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\StoreRepository.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Repository\\StoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:19:32.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "store.js",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\wwwroot\\js\\store.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\store.js",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\wwwroot\\js\\store.js",
+              "RelativeToolTip": "wwwroot\\js\\store.js",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwBYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-22T17:30:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:41:15.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20240722174341_addStoreRecords.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722174341_addStoreRecords.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240722174341_addStoreRecords.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722174341_addStoreRecords.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240722174341_addStoreRecords.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:43:41.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Store\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Store\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T15:47:47.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\Store.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\Store.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\Store.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\Store.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:16:44.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:55:02.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:23:22.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T10:04:43.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240721164752_UpdateNameToBeStringApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240721164752_UpdateNameToBeStringApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240721164752_UpdateNameToBeStringApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240721164752_UpdateNameToBeStringApplicationUser.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\Migrations\\20240721164752_UpdateNameToBeStringApplicationUser.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:47:52.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:54:20.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T15:49:05.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T15:46:19.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:27:23.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T15:49:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TeaTimeDemo",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\TeaTimeDemo.csproj",
+              "RelativeDocumentMoniker": "TeaTimeDemo.csproj",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\TeaTimeDemo.csproj",
+              "RelativeToolTip": "TeaTimeDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T16:18:37.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\EmailSender.cs",
+              "RelativeToolTip": "..\\TeaTimeDemo.Utility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:39:11.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-20T16:41:09.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAMBXwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T08:39:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:36:58.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:31:40.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBcwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:46:42.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:05:33.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:05:41.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:32:12.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:56:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Models\\Category.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:54:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240713054835_addImageUrlToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240713054835_addImageUrlToProduct.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240713054835_addImageUrlToProduct.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240713054835_addImageUrlToProduct.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240713054835_addImageUrlToProduct.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:48:35.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBcwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:29:40.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
