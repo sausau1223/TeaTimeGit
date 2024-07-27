@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TeaTimeDemo.Utility
-build_property.ProjectDir = C:\Users\sausau\source\repos\sausau1223\practiceWeb\TeaTimeDemo.Utility\
+build_property.ProjectDir = C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

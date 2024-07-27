@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQryRwE5DMY=",
+  "dgSpecHash": "jpPgZ7N+ly8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\TeaTimeDemo.csproj",
+  "projectFilePath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\TeaTimeDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sausau\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sausau\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {}
+    "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
+    "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
         "projectName": "TeaTimeDemo.DataAccess",
-        "projectPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+        "projectPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
         "packagesPath": "C:\\Users\\sausau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
-                "projectPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
+              "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+                "projectPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
               },
-              "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
-                "projectPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
+              "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+                "projectPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+    "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectUniqueName": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "projectName": "TeaTimeDemo.Models",
-        "projectPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "packagesPath": "C:\\Users\\sausau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\obj\\",
+        "outputPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -171,14 +171,14 @@
         }
       }
     },
-    "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+    "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
         "projectName": "TeaTimeDemo.Utility",
-        "projectPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
         "packagesPath": "C:\\Users\\sausau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\obj\\",
+        "outputPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

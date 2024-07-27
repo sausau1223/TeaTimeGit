@@ -14022,11 +14022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\TeaTimeDemo.csproj",
+      "projectUniqueName": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\TeaTimeDemo.csproj",
       "projectName": "TeaTimeDemo",
-      "projectPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\TeaTimeDemo.csproj",
+      "projectPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\TeaTimeDemo.csproj",
       "packagesPath": "C:\\Users\\sausau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo\\obj\\",
+      "outputPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -14048,8 +14048,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj"
+            "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj"
             }
           }
         }
