@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -290,7 +290,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -330,13 +330,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\appsettings.Production.json",
               "RelativeDocumentMoniker": "appsettings.Production.json",
               "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\appsettings.Production.json",
               "RelativeToolTip": "appsettings.Production.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAQAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-27T02:38:22.844Z",
               "EditorCaption": ""
@@ -379,13 +379,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAQAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-20T17:07:02.808Z",
               "EditorCaption": ""
