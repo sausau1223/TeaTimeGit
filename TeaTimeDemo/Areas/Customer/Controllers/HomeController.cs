@@ -54,7 +54,7 @@ namespace TeaTimeDemo.Areas.Customer.Controllers
                 _unitOfWork.ShoppingCart.Add(shoppingCart);
             }
             //TempData["success"] = @"加入購物車成功！";
-            TempData["success"] = "Add to Cart successful!";
+            TempData["success"] = "加";
 
             _unitOfWork.Save();
             return RedirectToAction(nameof(Index));
