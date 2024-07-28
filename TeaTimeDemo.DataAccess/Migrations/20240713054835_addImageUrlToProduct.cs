@@ -14,8 +14,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                 name: "ImageUrl",
                 table: "Products",
                 type: "nvarchar(max)",
-                nullable: false,
-                defaultValue: "");
+                nullable: true);
 
             migrationBuilder.UpdateData(
                 table: "Products",

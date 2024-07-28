@@ -7,7 +7,7 @@ using TeaTimeDemo.Models;
 
 namespace TeaTimeDemo.DataAccess.Repository.IRepository
 {
-    public interface IOrderDetailRepository : IRepository<OrderDetail>
+    public interface IOrderDetailRepository: IRepository<OrderDetail>
     {
         void Update(OrderDetail obj);
     }

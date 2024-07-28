@@ -10,13 +10,13 @@ using System.Threading.Tasks;
 
 namespace TeaTimeDemo.Models
 {
-    public class ApplicationUser : IdentityUser
+    public class ApplicationUser:IdentityUser
     {
         [Required]
-        public string Name { get; set; }
-        public string Address { get; set; }
-        public int? StoreId { get; set; }
-        [ForeignKey("StoreId")]
+        public string? Name { get; set; }
+        public string? Address { get; set; }
+        public int? StoreID { get; set; }
+        [ForeignKey("StoreID")]
         [ValidateNever]
         public Store Store { get; set; }
     }

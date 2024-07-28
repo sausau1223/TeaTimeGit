@@ -12,15 +12,15 @@ using TeaTimeDemo.DataAccess.Data;
 namespace TeaTimeDemo.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230725084254_addStoreToUser")]
-    partial class addStoreToUser
+    [Migration("20240721164752_UpdateNameToBeStringApplicationUser")]
+    partial class UpdateNameToBeStringApplicationUser
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0-preview.6.23329.4")
+                .HasAnnotation("ProductVersion", "8.0.7")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -146,7 +146,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
 
                     b.ToTable("AspNetUsers", (string)null);
 
-                    b.HasDiscriminator<string>("Discriminator").HasValue("IdentityUser");
+                    b.HasDiscriminator().HasValue("IdentityUser");
 
                     b.UseTphMappingStrategy();
                 });
@@ -257,13 +257,13 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         {
                             Id = 1,
                             DisplayOrder = 1,
-                            Name = "果汁"
+                            Name = "茶飲"
                         },
                         new
                         {
                             Id = 2,
                             DisplayOrder = 2,
-                            Name = "茶"
+                            Name = "水果茶"
                         },
                         new
                         {
@@ -285,11 +285,9 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -313,7 +311,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            CategoryId = 1,
+                            CategoryId = 2,
                             Description = "天然果飲，迷人多變。",
                             ImageUrl = "",
                             Name = "台灣水果茶",
@@ -323,8 +321,8 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 2,
-                            CategoryId = 2,
-                            Description = " 品鐵觀音，享人生的味道。",
+                            CategoryId = 1,
+                            Description = "品鐵觀音，享人生的味道。",
                             ImageUrl = "",
                             Name = "鐵觀音",
                             Price = 35.0,
@@ -334,69 +332,11 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         {
                             Id = 3,
                             CategoryId = 3,
-                            Description = "用咖啡體悟悠閒時光。",
+                            Description = "用咖啡體悟悠閒時光",
                             ImageUrl = "",
-                            Name = "冰美式咖啡",
+                            Name = "美式咖啡",
                             Price = 50.0,
                             Size = "中杯"
-                        });
-                });
-
-            modelBuilder.Entity("TeaTimeDemo.Models.Store", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Address")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("City")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Description")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PhoneNumber")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Stores");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Address = "台中市北區三民路三段129號",
-                            City = "台中市",
-                            Description = "鄰近台中一中商圈，學生消暑勝地。",
-                            Name = "台中一中店",
-                            PhoneNumber = "0987654321"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Address = "台北市大安區大安路一段11號",
-                            City = "台北市",
-                            Description = "濃厚的教育文化及熱鬧繁華的商圈，豐富整體氛圍。",
-                            Name = "台北大安店",
-                            PhoneNumber = "0911111111"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            Address = "台南市安平區安平路22號",
-                            City = "台南市",
-                            Description = "歷史造就了現今的安平，茶香中蘊含了悠遠的歷史。",
-                            Name = "台南安平店",
-                            PhoneNumber = "0922222222"
                         });
                 });
 
@@ -405,18 +345,11 @@ namespace TeaTimeDemo.DataAccess.Migrations
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
 
                     b.Property<string>("Address")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("StoreId")
-                        .IsRequired()
-                        .HasColumnType("int");
-
-                    b.HasIndex("StoreId");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
@@ -481,17 +414,6 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .IsRequired();
 
                     b.Navigation("Category");
-                });
-
-            modelBuilder.Entity("TeaTimeDemo.Models.ApplicationUser", b =>
-                {
-                    b.HasOne("TeaTimeDemo.Models.Store", "Store")
-                        .WithMany()
-                        .HasForeignKey("StoreId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Store");
                 });
 #pragma warning restore 612, 618
         }

@@ -12,7 +12,7 @@ using TeaTimeDemo.DataAccess.Data;
 namespace TeaTimeDemo.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230725064543_addStoreTable")]
+    [Migration("20240722151815_addStoreTable")]
     partial class addStoreTable
     {
         /// <inheritdoc />
@@ -20,7 +20,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0-preview.6.23329.4")
+                .HasAnnotation("ProductVersion", "8.0.7")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -146,7 +146,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
 
                     b.ToTable("AspNetUsers", (string)null);
 
-                    b.HasDiscriminator<string>("Discriminator").HasValue("IdentityUser");
+                    b.HasDiscriminator().HasValue("IdentityUser");
 
                     b.UseTphMappingStrategy();
                 });
@@ -257,13 +257,13 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         {
                             Id = 1,
                             DisplayOrder = 1,
-                            Name = "果汁"
+                            Name = "茶飲"
                         },
                         new
                         {
                             Id = 2,
                             DisplayOrder = 2,
-                            Name = "茶"
+                            Name = "水果茶"
                         },
                         new
                         {
@@ -285,11 +285,9 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -313,7 +311,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            CategoryId = 1,
+                            CategoryId = 2,
                             Description = "天然果飲，迷人多變。",
                             ImageUrl = "",
                             Name = "台灣水果茶",
@@ -323,8 +321,8 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 2,
-                            CategoryId = 2,
-                            Description = " 品鐵觀音，享人生的味道。",
+                            CategoryId = 1,
+                            Description = "品鐵觀音，享人生的味道。",
                             ImageUrl = "",
                             Name = "鐵觀音",
                             Price = 35.0,
@@ -334,9 +332,9 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         {
                             Id = 3,
                             CategoryId = 3,
-                            Description = "用咖啡體悟悠閒時光。",
+                            Description = "用咖啡體悟悠閒時光",
                             ImageUrl = "",
-                            Name = "冰美式咖啡",
+                            Name = "美式咖啡",
                             Price = 50.0,
                             Size = "中杯"
                         });
@@ -356,6 +354,9 @@ namespace TeaTimeDemo.DataAccess.Migrations
                     b.Property<string>("City")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -373,7 +374,6 @@ namespace TeaTimeDemo.DataAccess.Migrations
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
 
                     b.Property<string>("Address")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")

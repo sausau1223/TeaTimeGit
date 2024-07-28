@@ -20,7 +20,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                     Count = table.Column<int>(type: "int", nullable: false),
                     Ice = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Sweetness = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ApplicationUserId = table.Column<string>(type: "nvarchar(450)", nullable: false)
+                    ApplicationUserId = table.Column<string>(type: "nvarchar(450)", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -29,8 +29,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         name: "FK_ShoppingCarts_AspNetUsers_ApplicationUserId",
                         column: x => x.ApplicationUserId,
                         principalTable: "AspNetUsers",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                     table.ForeignKey(
                         name: "FK_ShoppingCarts_Products_ProductId",
                         column: x => x.ProductId,

@@ -12,15 +12,15 @@ using TeaTimeDemo.DataAccess.Data;
 namespace TeaTimeDemo.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230721061603_ExtendIdentityUser")]
-    partial class ExtendIdentityUser
+    [Migration("20240725160236_addOrderHeaderAndDetailToDb3")]
+    partial class addOrderHeaderAndDetailToDb3
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0-preview.6.23329.4")
+                .HasAnnotation("ProductVersion", "8.0.7")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -146,7 +146,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
 
                     b.ToTable("AspNetUsers", (string)null);
 
-                    b.HasDiscriminator<string>("Discriminator").HasValue("IdentityUser");
+                    b.HasDiscriminator().HasValue("IdentityUser");
 
                     b.UseTphMappingStrategy();
                 });
@@ -179,12 +179,10 @@ namespace TeaTimeDemo.DataAccess.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderKey")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("nvarchar(max)");
@@ -221,12 +219,10 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Value")
                         .HasColumnType("nvarchar(max)");
@@ -261,13 +257,13 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         {
                             Id = 1,
                             DisplayOrder = 1,
-                            Name = "果汁"
+                            Name = "茶飲"
                         },
                         new
                         {
                             Id = 2,
                             DisplayOrder = 2,
-                            Name = "茶"
+                            Name = "水果茶"
                         },
                         new
                         {
@@ -275,6 +271,93 @@ namespace TeaTimeDemo.DataAccess.Migrations
                             DisplayOrder = 3,
                             Name = "咖啡"
                         });
+                });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.OrderDetail", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Count")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Ice")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("OrderHeaderId")
+                        .HasColumnType("int");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("sweetness")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("OrderHeaderId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("OrderDetails");
+                });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.OrderHeader", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ApplicationUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("OrderDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("OrderStatus")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("OrderTotal")
+                        .HasColumnType("float");
+
+                    b.Property<DateTime>("PaymentDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("PaymentDueDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("PaymentStatus")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SessionId")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ApplicationUserId");
+
+                    b.ToTable("OrderHeaders");
                 });
 
             modelBuilder.Entity("TeaTimeDemo.Models.Product", b =>
@@ -289,11 +372,9 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -317,7 +398,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            CategoryId = 1,
+                            CategoryId = 2,
                             Description = "天然果飲，迷人多變。",
                             ImageUrl = "",
                             Name = "台灣水果茶",
@@ -327,8 +408,8 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 2,
-                            CategoryId = 2,
-                            Description = " 品鐵觀音，享人生的味道。",
+                            CategoryId = 1,
+                            Description = "品鐵觀音，享人生的味道。",
                             ImageUrl = "",
                             Name = "鐵觀音",
                             Price = 35.0,
@@ -338,11 +419,103 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         {
                             Id = 3,
                             CategoryId = 3,
-                            Description = "用咖啡體悟悠閒時光。",
+                            Description = "用咖啡體悟悠閒時光",
                             ImageUrl = "",
-                            Name = "冰美式咖啡",
+                            Name = "美式咖啡",
                             Price = 50.0,
                             Size = "中杯"
+                        });
+                });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.ShoppingCart", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ApplicationUserId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("Count")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Ice")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Sweetness")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ApplicationUserId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ShoppingCarts");
+                });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.Store", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Stores");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Address = "台中市北區三民路三段129號",
+                            City = "台中市",
+                            Description = "鄰近台中一中商圈，學生消暑勝地。",
+                            Name = "台中一中店",
+                            PhoneNumber = "0987654321"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Address = "台北市大安區大安路一段11號",
+                            City = "台北市",
+                            Description = "濃厚的教育文化及熱鬧繁華的商圈，豐富整體氛圍。",
+                            Name = "台北大安店",
+                            PhoneNumber = "0911111111"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Address = "台南市安平區安平路22號",
+                            City = "台南市",
+                            Description = "歷史造就了現今的安平，茶香中蘊含了悠遠的歷史。",
+                            Name = "台南安平店",
+                            PhoneNumber = "0922222222"
                         });
                 });
 
@@ -351,11 +524,16 @@ namespace TeaTimeDemo.DataAccess.Migrations
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
 
                     b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Name")
+                    b.Property<int?>("StoreID")
                         .HasColumnType("int");
+
+                    b.HasIndex("StoreID");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
@@ -411,6 +589,36 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("TeaTimeDemo.Models.OrderDetail", b =>
+                {
+                    b.HasOne("TeaTimeDemo.Models.OrderHeader", "OrderHeader")
+                        .WithMany()
+                        .HasForeignKey("OrderHeaderId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("TeaTimeDemo.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("OrderHeader");
+
+                    b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.OrderHeader", b =>
+                {
+                    b.HasOne("TeaTimeDemo.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("ApplicationUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+                });
+
             modelBuilder.Entity("TeaTimeDemo.Models.Product", b =>
                 {
                     b.HasOne("TeaTimeDemo.Models.Category", "Category")
@@ -420,6 +628,32 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .IsRequired();
 
                     b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.ShoppingCart", b =>
+                {
+                    b.HasOne("TeaTimeDemo.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("ApplicationUserId");
+
+                    b.HasOne("TeaTimeDemo.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+
+                    b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("TeaTimeDemo.Models.ApplicationUser", b =>
+                {
+                    b.HasOne("TeaTimeDemo.Models.Store", "Store")
+                        .WithMany()
+                        .HasForeignKey("StoreID");
+
+                    b.Navigation("Store");
                 });
 #pragma warning restore 612, 618
         }

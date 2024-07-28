@@ -1,5 +1,7 @@
 ﻿@model List<Category>
 
+  
+
 <div class="container">
     <div class="row pt-4 pb-3">
         <div class="col-6">
@@ -23,9 +25,7 @@
                 <th>
                     顯示順序
                 </th>
-                <th>
-
-                </th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -38,15 +38,20 @@
                     <td>
                         @obj.DisplayOrder
                     </td>
+
                     <td>
                         <div class="w-75 btn-group" role="group">
+
                             <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
-                                <i class="bi bi-pencil-square"></i>編輯
+                                <i class="bi bi-pencil-square"></i> 編輯
                             </a>
                             <a asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
-                                <i class="bi bi-trash-fill"></i>刪除
+                                <i class="bi bi-trash-fill"></i> 刪除
                             </a>
                         </div>
+               
+
+                        
                     </td>
                 </tr>
             }

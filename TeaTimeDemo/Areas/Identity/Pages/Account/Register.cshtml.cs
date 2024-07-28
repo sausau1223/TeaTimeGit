@@ -99,6 +99,15 @@ namespace TeaTimeDemo.Areas.Identity.Pages.Account
             [DataType(DataType.Password)]
             [Display(Name = "Password")]
             public string Password { get; set; }
+            public string? Role { get; set; }
+            [ValidateNever]
+            public IEnumerable<SelectListItem> RoleList { get; set; }
+            [Required]
+            public string Name { get; set; }
+            public string? Address { get; set; }
+            public string? PhoneNumber { get; set; }
+            public int? StoreId { get; set; }
+            public IEnumerable<SelectListItem> StoreList { get; set; }
 
             /// <summary>
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
@@ -108,17 +117,6 @@ namespace TeaTimeDemo.Areas.Identity.Pages.Account
             [Display(Name = "Confirm password")]
             [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
             public string ConfirmPassword { get; set; }
-
-            public string? Role { get; set; }
-            [ValidateNever]
-            public IEnumerable<SelectListItem> RoleList { get; set; }
-
-            [Required]
-            public string Name { get; set; }
-            public string? Address { get; set; }
-            public string? PhoneNumber { get; set; }
-            public int? StoreId { get; set; }
-            public IEnumerable<SelectListItem> StoreList { get; set; }
         }
 
 
@@ -160,20 +158,22 @@ namespace TeaTimeDemo.Areas.Identity.Pages.Account
 
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
+
                 user.Name = Input.Name;
                 user.Address = Input.Address;
                 user.PhoneNumber = Input.PhoneNumber;
                 if (Input.Role == SD.Role_Employee || Input.Role == SD.Role_Manager)
                 {
-                    user.StoreId = Input.StoreId;
+                    user.StoreID = Input.StoreId;
                 }
+
                 var result = await _userManager.CreateAsync(user, Input.Password);
 
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");
 
-                    if (!String.IsNullOrEmpty(Input.Role))
+                    if (!string.IsNullOrEmpty(Input.Role))
                     {
                         await _userManager.AddToRoleAsync(user, Input.Role);
                     }

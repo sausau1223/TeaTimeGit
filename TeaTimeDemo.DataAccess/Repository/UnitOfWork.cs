@@ -5,16 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 using TeaTimeDemo.DataAccess.Data;
 using TeaTimeDemo.DataAccess.Repository.IRepository;
-using TeaTimeDemo.Models;
 
 namespace TeaTimeDemo.DataAccess.Repository
 {
-    public class UnitOfWork : IUnitOfWork
+    public class UnitOfWork:IUnitOfWork
     {
-        private ApplicationDbContext _db;
-        public ICategoryRepository Category { get; private set; }
-        public IProductRepository Product { get; private set; }
+        private  ApplicationDbContext _db;
 
+        public ICategoryRepository Category { get; private set; }
+
+        public IProductRepository Product { get; private set; }
         public IStoreRepository Store { get; private set; }
         public IShoppingCartRepository ShoppingCart { get; private set; }
         public IApplicationUserRepository ApplicationUser { get; private set; }
@@ -31,11 +31,15 @@ namespace TeaTimeDemo.DataAccess.Repository
             ApplicationUser = new ApplicationUserRepository(_db);
             OrderHeader = new OrderHeaderRepository(_db);
             OrderDetail = new OrderDetailRepository(_db);
+
         }
+
+ 
 
         public void Save()
         {
             _db.SaveChanges();
         }
     }
+   
 }

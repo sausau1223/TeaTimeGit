@@ -7,7 +7,7 @@ using TeaTimeDemo.Models;
 
 namespace TeaTimeDemo.DataAccess.Repository.IRepository
 {
-    public interface IStoreRepository : IRepository<Store>
+    public interface IStoreRepository: IRepository<Store>
     {
         void Update(Store obj);
     }

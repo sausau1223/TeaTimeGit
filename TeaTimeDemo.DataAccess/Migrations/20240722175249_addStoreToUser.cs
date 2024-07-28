@@ -11,38 +11,37 @@ namespace TeaTimeDemo.DataAccess.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<int>(
-                name: "StoreId",
+                name: "StoreID",
                 table: "AspNetUsers",
                 type: "int",
                 nullable: true);
 
             migrationBuilder.CreateIndex(
-                name: "IX_AspNetUsers_StoreId",
+                name: "IX_AspNetUsers_StoreID",
                 table: "AspNetUsers",
-                column: "StoreId");
+                column: "StoreID");
 
             migrationBuilder.AddForeignKey(
-                name: "FK_AspNetUsers_Stores_StoreId",
+                name: "FK_AspNetUsers_Stores_StoreID",
                 table: "AspNetUsers",
-                column: "StoreId",
+                column: "StoreID",
                 principalTable: "Stores",
-                principalColumn: "Id",
-                onDelete: ReferentialAction.Cascade);
+                principalColumn: "Id");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropForeignKey(
-                name: "FK_AspNetUsers_Stores_StoreId",
+                name: "FK_AspNetUsers_Stores_StoreID",
                 table: "AspNetUsers");
 
             migrationBuilder.DropIndex(
-                name: "IX_AspNetUsers_StoreId",
+                name: "IX_AspNetUsers_StoreID",
                 table: "AspNetUsers");
 
             migrationBuilder.DropColumn(
-                name: "StoreId",
+                name: "StoreID",
                 table: "AspNetUsers");
         }
     }

@@ -36,23 +36,23 @@
             <ul class="list-group list-group-horizontal-sm">
                 <a style="text-decoration:none;" asp-controller="Order"
                    asp-action="Index" asp-route-status="Pending">
-                <li class="list-group-item @pending">等待確認訂單</li> 
+                <li class="list-group-item @pending">等待確認訂單</li>
                 </a>
                 <a style="text-decoration:none;" asp-controller="Order"
                    asp-action="Index" asp-route-status="Processing">
-                <li class="list-group-item @processing">訂單準備中</li> 
+                <li class="list-group-item @processing">訂單準備中</li>
                 </a>
                 <a style="text-decoration:none;" asp-controller="Order"
                    asp-action="Index" asp-route-status="Ready">
-                <li class="list-group-item @ready">可取餐</li> 
+                <li class="list-group-item @ready">可取餐</li>
                 </a>
                 <a style="text-decoration:none;" asp-controller="Order"
                    asp-action="Index" asp-route-status="Completed">
-                <li class="list-group-item @completed">已完成</li> 
+                <li class="list-group-item @completed">已完成</li>
                 </a>
                 <a style="text-decoration:none;" asp-controller="Order"
                    asp-action="Index" asp-route-status="all">
-                <li class="list-group-item @all">全部訂單</li> 
+                <li class="list-group-item @all">全部訂單</li>
                 </a>
             </ul>
         </div>
@@ -72,6 +72,6 @@
     </table>
 </div>
 
-@section Scripts{
+@section Scripts {
     <script src="~/js/order.js"></script>
 }

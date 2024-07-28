@@ -12,15 +12,15 @@ using TeaTimeDemo.DataAccess.Data;
 namespace TeaTimeDemo.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230803061759_addOrderHeaderAndDetailToDb")]
-    partial class addOrderHeaderAndDetailToDb
+    [Migration("20240725044040_addOrderHeaderAndDetailToDb2")]
+    partial class addOrderHeaderAndDetailToDb2
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0-preview.6.23329.4")
+                .HasAnnotation("ProductVersion", "8.0.7")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -146,7 +146,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
 
                     b.ToTable("AspNetUsers", (string)null);
 
-                    b.HasDiscriminator<string>("Discriminator").HasValue("IdentityUser");
+                    b.HasDiscriminator().HasValue("IdentityUser");
 
                     b.UseTphMappingStrategy();
                 });
@@ -257,13 +257,13 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         {
                             Id = 1,
                             DisplayOrder = 1,
-                            Name = "果汁"
+                            Name = "茶飲"
                         },
                         new
                         {
                             Id = 2,
                             DisplayOrder = 2,
-                            Name = "茶"
+                            Name = "水果茶"
                         },
                         new
                         {
@@ -285,10 +285,12 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Ice")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("OrderHeaderId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("OrderHeardId")
                         .HasColumnType("int");
 
                     b.Property<double>("Price")
@@ -298,7 +300,6 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("sweetness")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -323,7 +324,6 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ApplicationUserId")
-                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
@@ -336,13 +336,13 @@ namespace TeaTimeDemo.DataAccess.Migrations
                     b.Property<string>("OrderStatus")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<double>("OrderTotal")
+                    b.Property<double?>("OrderTotal")
                         .HasColumnType("float");
 
-                    b.Property<DateTime>("PaymentDate")
+                    b.Property<DateTime?>("PaymentDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("PaymentDueDate")
+                    b.Property<DateTime?>("PaymentDueDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("PaymentStatus")
@@ -374,11 +374,9 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -402,7 +400,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            CategoryId = 1,
+                            CategoryId = 2,
                             Description = "天然果飲，迷人多變。",
                             ImageUrl = "",
                             Name = "台灣水果茶",
@@ -412,8 +410,8 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 2,
-                            CategoryId = 2,
-                            Description = " 品鐵觀音，享人生的味道。",
+                            CategoryId = 1,
+                            Description = "品鐵觀音，享人生的味道。",
                             ImageUrl = "",
                             Name = "鐵觀音",
                             Price = 35.0,
@@ -423,9 +421,9 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         {
                             Id = 3,
                             CategoryId = 3,
-                            Description = "用咖啡體悟悠閒時光。",
+                            Description = "用咖啡體悟悠閒時光",
                             ImageUrl = "",
-                            Name = "冰美式咖啡",
+                            Name = "美式咖啡",
                             Price = 50.0,
                             Size = "中杯"
                         });
@@ -440,7 +438,6 @@ namespace TeaTimeDemo.DataAccess.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("ApplicationUserId")
-                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("Count")
@@ -529,18 +526,16 @@ namespace TeaTimeDemo.DataAccess.Migrations
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
 
                     b.Property<string>("Address")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("StoreId")
-                        .IsRequired()
+                    b.Property<int?>("StoreID")
                         .HasColumnType("int");
 
-                    b.HasIndex("StoreId");
+                    b.HasIndex("StoreID");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
@@ -619,9 +614,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                 {
                     b.HasOne("TeaTimeDemo.Models.ApplicationUser", "ApplicationUser")
                         .WithMany()
-                        .HasForeignKey("ApplicationUserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("ApplicationUserId");
 
                     b.Navigation("ApplicationUser");
                 });
@@ -641,9 +634,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                 {
                     b.HasOne("TeaTimeDemo.Models.ApplicationUser", "ApplicationUser")
                         .WithMany()
-                        .HasForeignKey("ApplicationUserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("ApplicationUserId");
 
                     b.HasOne("TeaTimeDemo.Models.Product", "Product")
                         .WithMany()
@@ -660,9 +651,7 @@ namespace TeaTimeDemo.DataAccess.Migrations
                 {
                     b.HasOne("TeaTimeDemo.Models.Store", "Store")
                         .WithMany()
-                        .HasForeignKey("StoreId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("StoreID");
 
                     b.Navigation("Store");
                 });

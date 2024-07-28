@@ -9,14 +9,13 @@ using TeaTimeDemo.Models;
 
 namespace TeaTimeDemo.DataAccess.Repository
 {
-    public class OrderDetailRepository : Repository<OrderDetail>, IOrderDetailRepository
+    public class OrderDetailRepository: Repository<OrderDetail>, IOrderDetailRepository
     {
-        private ApplicationDbContext _db;
-        public OrderDetailRepository(ApplicationDbContext db) : base(db)
+        private readonly ApplicationDbContext _db;
+        public OrderDetailRepository(ApplicationDbContext db):base(db)
         {
             _db = db;
         }
-
         public void Update(OrderDetail obj)
         {
             _db.OrderDetails.Update(obj);

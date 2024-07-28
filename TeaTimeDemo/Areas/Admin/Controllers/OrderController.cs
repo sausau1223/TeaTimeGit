@@ -13,9 +13,9 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
     public class OrderController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+
         [BindProperty]
         public OrderVM OrderVM { get; set; }
-
         public OrderController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
@@ -27,12 +27,12 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
 
         public IActionResult Details(int orderId)
         {
-            OrderVM = new OrderVM
+            OrderVM orderVM = new OrderVM()
             {
                 OrderHeader = _unitOfWork.OrderHeader.Get(u => u.Id == orderId, includeProperties: "ApplicationUser"),
                 OrderDetail = _unitOfWork.OrderDetail.GetAll(u => u.OrderHeaderId == orderId, includeProperties: "Product")
             };
-            return View(OrderVM);
+            return View(orderVM);
         }
 
         [HttpPost]
@@ -47,9 +47,9 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
             _unitOfWork.OrderHeader.Update(orderHeaderFromDb);
             _unitOfWork.Save();
 
-            TempData["Success"] = "訂購人資訊更新成功！";
-
+            TempData["Success"] = "訂購人資訊更新成功!";
             return RedirectToAction(nameof(Details), new { orderId = orderHeaderFromDb.Id });
+
         }
 
         [HttpPost]
@@ -59,8 +59,7 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
             _unitOfWork.OrderHeader.UpdateStatus(OrderVM.OrderHeader.Id, SD.StatusInProcess);
             _unitOfWork.Save();
 
-            TempData["Success"] = "訂單狀態更新成功！";
-
+            TempData["Success"] = "訂單已出貨!";
             return RedirectToAction(nameof(Details), new { orderId = OrderVM.OrderHeader.Id });
         }
 
@@ -71,10 +70,10 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
             _unitOfWork.OrderHeader.UpdateStatus(OrderVM.OrderHeader.Id, SD.StatusReady);
             _unitOfWork.Save();
 
-            TempData["Success"] = "訂單狀態更新成功！";
-
+            TempData["Success"] = "訂單狀態更新成功!";
             return RedirectToAction(nameof(Details), new { orderId = OrderVM.OrderHeader.Id });
         }
+
         [HttpPost]
         [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Employee + "," + SD.Role_Manager)]
         public IActionResult OrderCompleted()
@@ -82,8 +81,7 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
             _unitOfWork.OrderHeader.UpdateStatus(OrderVM.OrderHeader.Id, SD.StatusCompleted);
             _unitOfWork.Save();
 
-            TempData["Success"] = "訂單狀態更新成功！";
-
+            TempData["Success"] = "訂單狀態更新成功!";
             return RedirectToAction(nameof(Details), new { orderId = OrderVM.OrderHeader.Id });
         }
 
@@ -94,15 +92,18 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
             _unitOfWork.OrderHeader.UpdateStatus(OrderVM.OrderHeader.Id, SD.StatusCancelled);
             _unitOfWork.Save();
 
-            TempData["Success"] = "訂單取消成功！";
-
+            TempData["Success"] = "訂單取消成功!";
             return RedirectToAction(nameof(Details), new { orderId = OrderVM.OrderHeader.Id });
         }
+
+
 
         #region API CALLS
         [HttpGet]
         public IActionResult GetAll(string status)
         {
+
+            //取得所有訂單資訊，並包含訂購人
             IEnumerable<OrderHeader> objOrderHeaders;
 
             if (User.IsInRole(SD.Role_Admin) || User.IsInRole(SD.Role_Employee) || User.IsInRole(SD.Role_Manager))
@@ -113,14 +114,12 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
             {
                 var claimsIdentity = (ClaimsIdentity)User.Identity;
                 var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
-
-                objOrderHeaders = _unitOfWork.OrderHeader
-                    .GetAll(u => u.ApplicationUserId == userId, includeProperties: "ApplicationUser");
+                objOrderHeaders = _unitOfWork.OrderHeader.GetAll(u => u.ApplicationUserId == userId, includeProperties: "ApplicationUser");
             }
 
             switch (status)
             {
-                case "Pending":
+                case "pending":
                     objOrderHeaders = objOrderHeaders.Where(u => u.OrderStatus == SD.StatusPending);
                     break;
                 case "Processing":
@@ -135,7 +134,6 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
                 default:
                     break;
             }
-
 
             return Json(new { data = objOrderHeaders });
         }

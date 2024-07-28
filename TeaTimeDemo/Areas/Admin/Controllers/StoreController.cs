@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.Data.SqlClient;
+using System.Data;
 using TeaTimeDemo.DataAccess.Data;
 using TeaTimeDemo.DataAccess.Repository.IRepository;
 using TeaTimeDemo.Models;
@@ -13,36 +15,46 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
     [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Manager)]
     public class StoreController : Controller
     {
+
         private readonly IUnitOfWork _unitOfWork;
         public StoreController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }
+
+
+
         public IActionResult Index()
         {
+
             List<Store> objStoreList = _unitOfWork.Store.GetAll().ToList();
             return View(objStoreList);
         }
-        public IActionResult Upsert(int? id)
+
+        public IActionResult Upsert(int? Id)
         {
-            if (id == null || id == 0)
+
+            if (Id == null || Id == 0)
             {
                 return View(new Store());
             }
             else
             {
-                Store storeObj = _unitOfWork.Store.Get(u => u.Id == id);
+                Store storeObj = _unitOfWork.Store.Get(u => u.Id == Id);
                 return View();
             }
+
         }
+
 
         [HttpPost]
         public IActionResult Upsert(Store storeObj)
         {
-            //本次修改部分
+
+
             if (ModelState.IsValid)
             {
-                if (storeObj.Id == 0)
+                if(storeObj.Id == 0)
                 {
                     _unitOfWork.Store.Add(storeObj);
                 }
@@ -51,7 +63,7 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
                     _unitOfWork.Store.Update(storeObj);
                 }
                 _unitOfWork.Save();
-                TempData["success"] = "店鋪新增成功！";
+                TempData["success"] = "店鋪新增成功!";
                 return RedirectToAction("Index");
             }
             else
@@ -60,12 +72,13 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
             }
         }
 
+
         #region API CALLS
         [HttpGet]
         public IActionResult GetAll()
         {
-            List<Store> objStoreList = _unitOfWork.Store.GetAll().ToList();
-            return Json(new { data = objStoreList });
+            List<Store> objStoretList = _unitOfWork.Store.GetAll().ToList();
+            return Json(new { data = objStoretList });
         }
 
         [HttpDelete]
@@ -74,14 +87,17 @@ namespace TeaTimeDemo.Areas.Admin.Controllers
             var storeToBeDeleted = _unitOfWork.Store.Get(u => u.Id == id);
             if (storeToBeDeleted == null)
             {
-                return Json(new { success = false, message = "刪除失敗" });
+                return Json(new { success = false, message = "刪除失敗!" });
             }
+
 
             _unitOfWork.Store.Remove(storeToBeDeleted);
             _unitOfWork.Save();
-
-            return Json(new { success = true, message = "刪除成功" });
+            return Json(new { success = true, message = "刪除成功!" });
         }
+
+
+
         #endregion
     }
 }

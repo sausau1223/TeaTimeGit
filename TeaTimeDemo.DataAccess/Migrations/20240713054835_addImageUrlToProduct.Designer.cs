@@ -11,15 +11,15 @@ using TeaTimeDemo.DataAccess.Data;
 namespace TeaTimeDemo.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230603080216_addForeignKeyForCategoryProductRelation")]
-    partial class addForeignKeyForCategoryProductRelation
+    [Migration("20240713054835_addImageUrlToProduct")]
+    partial class addImageUrlToProduct
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0-preview.3.23174.2")
+                .HasAnnotation("ProductVersion", "8.0.4")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -77,7 +77,9 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -101,29 +103,32 @@ namespace TeaTimeDemo.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            CategoryId = 1,
-                            Description = "清爽又止渴",
-                            Name = "紅茶",
-                            Price = 30.0,
+                            CategoryId = 2,
+                            Description = "天然果飲，迷人多變。",
+                            ImageUrl = "",
+                            Name = "台灣水果茶",
+                            Price = 60.0,
                             Size = "大杯"
                         },
                         new
                         {
                             Id = 2,
                             CategoryId = 1,
-                            Description = "回甘就像現泡",
-                            Name = "綠茶",
-                            Price = 25.0,
+                            Description = "品鐵觀音，享人生的味道。",
+                            ImageUrl = "",
+                            Name = "鐵觀音",
+                            Price = 35.0,
                             Size = "中杯"
                         },
                         new
                         {
                             Id = 3,
-                            CategoryId = 2,
-                            Description = "小小一杯，清涼一夏",
-                            Name = "綠豆沙牛奶",
+                            CategoryId = 3,
+                            Description = "用咖啡體悟悠閒時光",
+                            ImageUrl = "",
+                            Name = "美式咖啡",
                             Price = 50.0,
-                            Size = "大杯"
+                            Size = "中杯"
                         });
                 });
 
