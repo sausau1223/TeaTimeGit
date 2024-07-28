@@ -1,0 +1,13 @@
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.deps.json
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.dll
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.pdb
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.csproj.AssemblyReference.cache
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.AssemblyInfoInputs.cache
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.AssemblyInfo.cs
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.csproj.CoreCompileInputs.cache
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.sourcelink.json
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.dll
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\refint\TeaTimeDemo.Utility.dll
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.pdb
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Utility\obj\Debug\net7.0\ref\TeaTimeDemo.Utility.dll

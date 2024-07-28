@@ -24,3 +24,16 @@ C:\Users\sausau\source\repos\sausau1223\practiceWeb\TeaTimeDemo.Models\obj\Debug
 C:\Users\sausau\source\repos\sausau1223\practiceWeb\TeaTimeDemo.Models\obj\Debug\net8.0\refint\TeaTimeDemo.Models.dll
 C:\Users\sausau\source\repos\sausau1223\practiceWeb\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.pdb
 C:\Users\sausau\source\repos\sausau1223\practiceWeb\TeaTimeDemo.Models\obj\Debug\net8.0\ref\TeaTimeDemo.Models.dll
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.deps.json
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.dll
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.pdb
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.csproj.AssemblyReference.cache
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.AssemblyInfoInputs.cache
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.AssemblyInfo.cs
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.csproj.CoreCompileInputs.cache
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.sourcelink.json
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.dll
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\refint\TeaTimeDemo.Models.dll
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.pdb
+C:\Users\sausau\Documents\GitHub\TeaTimeGit\TeaTimeDemo.Models\obj\Debug\net8.0\ref\TeaTimeDemo.Models.dll

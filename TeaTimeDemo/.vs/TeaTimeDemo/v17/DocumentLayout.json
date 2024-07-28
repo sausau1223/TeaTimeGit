@@ -3,6 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B770A4BC-6F62-4535-8795-C31D6EE87CF5}|..\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo.utility\\teatimedemo.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1915F1E-0931-4068-9A72-6AECB91B2B1F}|..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo.models\\teatimedemo.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E2164-BE80-467A-BA5C-3EDBAA01F15E}|..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo.dataaccess\\teatimedemo.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\teatimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:teatimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\teatimedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:teatimedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -13,10 +30,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\teatimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:teatimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,10 +148,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\teatimedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|solutionrelative:teatimedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F9A2738-D4F6-45F0-A892-D90B26CACB70}|TeaTimeDemo.csproj|c:\\users\\sausau\\documents\\github\\teatimegit\\teatimedemo\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -331,6 +340,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TeaTimeDemo.Utility.csproj",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+              "RelativeToolTip": "..\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T10:50:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeaTimeDemo.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+              "RelativeToolTip": "..\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T10:50:28.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeaTimeDemo.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+              "RelativeToolTip": "..\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T10:49:54.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\appsettings.Production.json",
               "RelativeDocumentMoniker": "appsettings.Production.json",
@@ -338,24 +386,11 @@
               "RelativeToolTip": "appsettings.Production.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-27T02:38:22.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T02:38:22.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T07:28:44.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "IDBInitializer.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\DbInitializer\\IDBInitializer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\DbInitializer\\IDBInitializer.cs",
@@ -367,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "StoreController.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\StoreController.cs",
@@ -379,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -387,12 +422,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-20T17:07:02.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T17:07:02.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -404,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\DbInitializer\\DbInitializer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\DbInitializer\\DbInitializer.cs",
@@ -416,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ApplicationUser.cs",
@@ -434,13 +468,39 @@
               "RelativeDocumentMoniker": "TeaTimeDemo.csproj",
               "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\TeaTimeDemo.csproj",
               "RelativeToolTip": "TeaTimeDemo.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-20T16:01:29.943Z"
+              "WhenOpened": "2024-07-20T16:01:29.943Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "TeaTimeDemo",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\TeaTimeDemo.csproj",
+              "RelativeDocumentMoniker": "TeaTimeDemo.csproj",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\TeaTimeDemo.csproj",
+              "RelativeToolTip": "TeaTimeDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T16:18:37.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:28:44.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -452,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Views\\Order\\Details.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\Details.cshtml",
@@ -464,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -476,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OrderController.cs",
@@ -488,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\SD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\SD.cs",
@@ -500,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\Index.cshtml",
@@ -512,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -524,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -536,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "OrderVM.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\OrderVM.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\OrderVM.cs",
@@ -548,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "ApplicationUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ApplicationUserRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ApplicationUserRepository.cs",
@@ -560,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "ShoppingCartRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ShoppingCartRepository.cs",
@@ -572,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
@@ -584,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Customer\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\CartController.cs",
@@ -596,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "order.js",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\wwwroot\\js\\order.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\order.js",
@@ -608,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "OrderHeaderRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\OrderHeaderRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\OrderHeaderRepository.cs",
@@ -620,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "product.js",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\wwwroot\\js\\product.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\product.js",
@@ -632,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ShoppingCart.cs",
@@ -644,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "IOrderHeaderRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
@@ -656,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "OrderDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\OrderDetailRepository.cs",
@@ -668,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
@@ -680,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
@@ -692,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "OrderHeader.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\OrderHeader.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\OrderHeader.cs",
@@ -704,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\UnitOfWork.cs",
@@ -716,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\OrderDetail.cs",
@@ -728,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "IShoppingCartRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
@@ -740,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
@@ -752,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
@@ -764,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "IOrderDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderDetailRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IOrderDetailRepository.cs",
@@ -776,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "OrderConfirmation.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
@@ -788,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "IStoreRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IStoreRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IStoreRepository.cs",
@@ -800,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "ShoppingCartVM.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ShoppingCartVM.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ShoppingCartVM.cs",
@@ -812,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\Index.cshtml",
@@ -820,11 +880,12 @@
               "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\Index.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAAEsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T07:03:39.313Z"
+              "WhenOpened": "2024-07-24T07:03:39.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Summary.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\Summary.cshtml",
@@ -836,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 73,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
@@ -848,7 +909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -860,7 +921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 74,
               "Title": "20240725044040_addOrderHeaderAndDetailToDb2.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240725044040_addOrderHeaderAndDetailToDb2.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240725044040_addOrderHeaderAndDetailToDb2.cs",
@@ -872,7 +933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 75,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
@@ -884,7 +945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
@@ -896,7 +957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Details.cshtml",
@@ -908,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 76,
               "Title": "20240724051654_addShoppingCartToDb.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240724051654_addShoppingCartToDb.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240724051654_addShoppingCartToDb.cs",
@@ -920,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Upsert.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Views\\Store\\Upsert.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Store\\Upsert.cshtml",
@@ -932,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 77,
               "Title": "20240722151815_addStoreTable.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722151815_addStoreTable.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722151815_addStoreTable.cs",
@@ -944,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 78,
               "Title": "20240722175249_addStoreToUser.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722175249_addStoreToUser.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722175249_addStoreToUser.cs",
@@ -956,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 79,
               "Title": "StoreRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\StoreRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\StoreRepository.cs",
@@ -968,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "store.js",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\wwwroot\\js\\store.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\store.js",
@@ -980,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.Models\\ViewModels\\ProductVM.cs",
@@ -992,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 80,
               "Title": "20240722174341_addStoreRecords.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722174341_addStoreRecords.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240722174341_addStoreRecords.cs",
@@ -1004,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Views\\Store\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Store\\Index.cshtml",
@@ -1016,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 81,
               "Title": "Store.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\Store.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Models\\Store.cs",
@@ -1028,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
@@ -1040,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
@@ -1052,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\.gitignore",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\.gitignore",
@@ -1064,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 82,
               "Title": "20240721164752_UpdateNameToBeStringApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240721164752_UpdateNameToBeStringApplicationUser.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240721164752_UpdateNameToBeStringApplicationUser.cs",
@@ -1076,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
@@ -1088,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -1100,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Customer\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\_ViewImports.cshtml",
@@ -1112,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -1124,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -1136,18 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TeaTimeDemo",
-              "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\TeaTimeDemo.csproj",
-              "RelativeDocumentMoniker": "TeaTimeDemo.csproj",
-              "ToolTip": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\TeaTimeDemo.csproj",
-              "RelativeToolTip": "TeaTimeDemo.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-20T16:18:37.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 83,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\EmailSender.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\sausau1223\\practiceWeb\\TeaTimeDemo.Utility\\EmailSender.cs",
@@ -1159,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
@@ -1171,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
@@ -1183,7 +1233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\Repository.cs",
@@ -1195,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\ProductRepository.cs",
@@ -1207,7 +1257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
@@ -1219,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Upsert.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Upsert.cshtml",
@@ -1231,7 +1281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\TeaTimeGit\\TeaTimeDemo\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
@@ -1243,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
@@ -1255,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.DataAccess\\Repository\\CategoryRepository.cs",
@@ -1267,7 +1317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.Models\\Models\\Category.cs",
@@ -1279,7 +1329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "20240713054835_addImageUrlToProduct.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240713054835_addImageUrlToProduct.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.DataAccess\\Migrations\\20240713054835_addImageUrlToProduct.cs",
@@ -1291,7 +1341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\sausau\\Documents\\GitHub\\practiceWeb\\TeaTimeDemo.Models\\Product.cs",
               "RelativeDocumentMoniker": "..\\..\\practiceWeb\\TeaTimeDemo.Models\\Product.cs",
